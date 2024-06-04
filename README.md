@@ -37,6 +37,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#the-idea-behind-openpost">The idea behind OpenPost</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -83,6 +84,15 @@ That's why I created OpenPost: a self-hosted tool built with HTMX and .NET, feat
 - Own your email lists
 
 If this resonates with you, you're in the right place. Cheers!
+
+### Built With
+
+* [![dotnet](https://img.shields.io/badge/dotnet-%23512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/en-us/)
+* [![htmx](https://img.shields.io/badge/htmx-%233d72d7?style=flat-square&logo=htmx)](htmx.org)
+* [![alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev/)
+* [![picocss](https://img.shields.io/badge/picocss-%230172ad?style=flat-square&logo=css3)](https://picocss.com)
+
+Only MIT dependencies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
