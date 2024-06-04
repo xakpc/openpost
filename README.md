@@ -78,7 +78,7 @@ Many newsletter tools have become slow and clunky, crammed with too many feature
 That's why I created OpenPost: a self-hosted tool built with HTMX and .NET, featuring a minimal UI and a basic set of features. I believe we should be able to manage our emails without all that noise. With OpenPost, you can:
 
 - Work quickly with core features: lists and newsletters
-- Pay only for what you send, not for data storage
+- Pay mostly for what you send
 - Own your email lists
 
 If this resonates with you, you're in the right place. Cheers!
