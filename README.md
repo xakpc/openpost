@@ -151,7 +151,7 @@ TODO
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@xakpc](https://x.com/xakpc)
+Pavel - [@xakpc](https://x.com/xakpc)
 
 Project Link: [https://github.com/xakpc/openpost](https://github.com/xakpc/openpost)
 
