@@ -71,8 +71,6 @@ Designed for small businesses, startups, and tech enthusiasts, OpenPost offers a
 
 ### The idea behind OpenPost
 
-Hi, I'm Pavel, the creator and main (well, only so far) user of OpenPost.
-
 Let's talk about complexity. It's everywhere today. We're all familiar with the KISS principle, and I believe it **should be applied more often**, especially to the tools we use.
 
 Many newsletter tools have become slow and clunky, crammed with too many features in a bid to outdo competitors. Their primary function—**collecting email lists and sending emails**—gets buried under a heap of unnecessary (at least for me) features.
