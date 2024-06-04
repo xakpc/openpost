@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/xakpc/openpost">
-    <img src="mediakit/mascot-generated-abomination.png" alt="mascot abomination" width="100" height="100">
+    <img src="mediakit/mascot-generated-abomination.png" alt="mascot abomination" width="300" height="300">
   </a>
 
 <h3 align="center">OpenPost · 📧</h3>
@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![OpenPost Screen Shot](mediakit/temp-mail-lists.png])
+![OpenPost Screen Shot](mediakit/temp-mail-lists.png)
 
 A free self-hosted open-source solution for managing your email newsletters.
 
@@ -78,9 +78,10 @@ Many newsletter tools have become slow and clunky, crammed with too many feature
 
 That's why I created OpenPost: a self-hosted tool built with HTMX and .NET, featuring a minimal UI and a basic set of features. I believe we should be able to manage our emails without all that noise. With OpenPost, you can:
 
-Work quickly with core features: lists and newsletters
-Pay only for what you send, not for data storage
-Own your email lists
+- Work quickly with core features: lists and newsletters
+- Pay only for what you send, not for data storage
+- Own your email lists
+
 If this resonates with you, you're in the right place. Cheers!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
